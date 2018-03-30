@@ -1,3 +1,3 @@
-# 49503172
+# Hope this helps
 
-https://stackoverflow.com/questions/49503172/chrome-storage-api-not-working/
+https://stackoverflow.com/a/49526750/9147995
